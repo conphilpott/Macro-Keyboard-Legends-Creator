@@ -1,0 +1,22 @@
+h1 {
+    font-size: 24px;
+}
+label {
+    font-size: 16px;
+}
+table {
+    border-style: solid;
+}
+th {
+    border-style: solid;
+    padding: 0px;
+}
+td {
+    border-style: solid;
+    text-align: center;
+    padding: 0px;
+}
+span {
+    text-align: center;
+    padding: 0px;
+}
