@@ -1,4 +1,4 @@
-# Macro Keyboard Legends Creator
+# [Macro Keyboard Legends Creator](https://thermalaxis.github.io/Macro-Keyboard-Legends-Creator/index.html)
  
 A utility to generate printable keycap legends for macro keyboards using the Material Icons font.
 
