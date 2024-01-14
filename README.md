@@ -1,6 +1,7 @@
 # Macro Keyboard Legends Creator
  
 A utility to generate printable keycap legends for macro keyboards using the Material Icons font.
+![a href="https://thermalaxis.github.io/Macro-Keyboard-Legends-Creator/index.html"]Click here to use the utility[/a]
 
 https://fonts.google.com/icons
 
